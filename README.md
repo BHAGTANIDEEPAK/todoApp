@@ -15,7 +15,7 @@ Steps are given below : <br/>
 
 ### Deployment
 
-The project is deployed on github pages: (https://bhagtanideepak.github.io/todoApp/)
+The project is deployed on github pages: [https://bhagtanideepak.github.io/todoApp/]
 
 
 
