@@ -1,6 +1,6 @@
 # About ToDo App
 
-A basic To-Do application using ReactJS that allows users to add, view, and delete tasks. This application should showcase your understanding of HTML, CSS, JavaScript, React components, hooks, and state management using Redux.
+A basic To-Do application using ReactJS that allows users to add, view, and delete tasks. This application should showcase your understanding of HTML, CSS, JavaScript, React components, hooks, and state management using Redux. <br />
 ![image](https://github.com/BHAGTANIDEEPAK/todoApp/assets/107862278/b06a2f58-12d7-4ca3-b96d-b84bb984733b)
 
 
